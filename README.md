@@ -24,3 +24,5 @@ It fetches real-time weather data using OpenWeather API.
 - Dark mode
 - 5-day forecast
 - Location-based weather
+- https://tusharharnawal.github.io/weather-app/
+
